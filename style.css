@@ -128,7 +128,7 @@ body
     color: #fff;
     font-weight: 300;
     letter-spacing: 1px;
-    display: inline;
+    padding-left: 0;
 }
 
 
